@@ -44,10 +44,11 @@ npm run test
 - **tipo**: Boolean
 
 ## Ejemplo
-Para cell1 = "A1" y cell2 = "C3", la salida debe ser chessBoardCellColor(cell1, cell2) = verdadero.  
+Para cell1 = "A1" y cell2 = "C3", la salida debe ser = verdadero.  
 ![](https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/TheCodeChallenge%2Fajedrez_color.png?alt=media&token=bb97f338-796a-40f1-ba8d-0b23c56c6707)
+---  
 
-Para cell1 = "A1" y cell2 = "H3", la salida debe ser chessBoardCellColor (cell1, cell2) = falso.
+Para cell1 = "A1" y cell2 = "H3", la salida debe ser = falso.  
 ![](https://firebasestorage.googleapis.com/v0/b/fullstack-extraordinary.appspot.com/o/TheCodeChallenge%2Fagedrez_color2.png?alt=media&token=91a123c5-4c2d-4ae6-90c9-f9460cba231a)
 
 
