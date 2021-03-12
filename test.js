@@ -37,7 +37,7 @@ describe('ChallengeTemplate', () => {
     /**
      * TEST DESCRIPTION
      */
-    it('Test4: when cell1="B3" and cell2="B5" should return false', () => {
+    it('Test4: when cell1="B3" and cell2="B5" should return true', () => {
         let result = challengeFunction("B3", "B5")
         let expected = true
 
@@ -47,7 +47,7 @@ describe('ChallengeTemplate', () => {
     /**
      * TEST DESCRIPTION
      */
-    it('Test5: when cell1="F2" and cell2="F8" should return false', () => {
+    it('Test5: when cell1="F2" and cell2="F8" should return true', () => {
         let result = challengeFunction("F2", "F8")
         let expected = true
 
@@ -57,7 +57,7 @@ describe('ChallengeTemplate', () => {
     /**
      * TEST DESCRIPTION
      */
-    it('Test6: when cell1="A8" and cell2="H1" should return false', () => {
+    it('Test6: when cell1="A8" and cell2="H1" should return true', () => {
         let result = challengeFunction("A8", "H1")
         let expected = true
 
